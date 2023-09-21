@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #F7CAC9;
   margin: 0;
   padding: 0;
   height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
@@ -17,7 +17,7 @@ body {
   justify-content: center;
 
   position: relative;
-  background-color: #F7CAC9; /* Fondo orimaveral para toda la página */
+  background-color: #F7CAC9; /* Fondo primaveral para toda la página */
 
   /* Agrega una animación de pulsación */
   animation: pulsate 2s infinite;
